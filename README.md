@@ -1,4 +1,4 @@
-# Maze-Puzzle
+# Maze-Puzzle-Solver
 Solve Maze Puzzle using Backtracking and BFS Graph Traversal
 
 This program takes a 2D puzzle of size MxN, that has M rows and N columns (M and N can be different). Each cell is either empty or has a barrier. An empty cell is marked by '-' (hyphen) and the one with a barrier is marked by '#'. You are given two coordinates from the puzzle (a,b) and (x,y). You can move only in the following directions:
