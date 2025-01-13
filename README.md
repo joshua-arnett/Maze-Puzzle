@@ -9,7 +9,7 @@ D: move to lower cell from the current cell
 
 You can only move to an empty cell and cannot move to a cell with a barrier in it. Your goal is to reach the destination cell, covering the **minimum number of cells** as you travel from the start cell.
 
-<img width="348" alt="image" src="https://github.com/user-attachments/assets/f20c2972-14ca-4476-a62c-9dadbe763884" />
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/3c0a842a-b146-4958-b426-7e860fb57ff6" />
 
 This program takes three inputs: (Puzzle, Source, Destination)
 To call this program and solve the problem, simply call __solve_puzzle(Puzzle, Source, Destination)__
